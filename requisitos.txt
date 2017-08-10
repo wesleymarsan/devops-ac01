@@ -1,13 +1,3 @@
-Perseus
-
-Gabriela - Análise
-Gabriel  - Análise
-Victor E - Design
-Emerson  - Codificação
-Daniel   - codificação
-Victor s - Teste
-Wesley   - Operação
-
 Construir um site em HTML apresentando em paginas separadas os tres filmes
 de ação preferidos de cada integrante do grupo.
 A pagina inicial (index.html) deve ter todos os links, identificados pelo nome de cada integrante
