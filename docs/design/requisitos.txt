@@ -1,9 +1,9 @@
 Construir um site em HTML apresentando em paginas separadas os tres filmes
-de aÁ„o preferidos de cada integrante do grupo.
+de a√ß√£o preferidos de cada integrante do grupo.
 A pagina inicial (index.html) deve ter todos os links, identificados pelo nome de cada integrante
-As demais p·ginas devem conter os nomes dos filmes e um link para voltar ao index
+As demais p√°ginas devem conter os nomes dos filmes e um link para voltar ao index
 
-Gabriela - Logan, velozes e furiosos 5, os mercen·rios
+Gabriela - Logan, velozes e furiosos 5, os mercen√°rios
 Gabriel - Senhor dos aneis 1, 2, 3
 emerson - hobbit 1,2,3
 victo E - carga explosiva 1,2,3
