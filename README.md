@@ -1,8 +1,8 @@
-# devops-aula01
+# devops-ac01
 
-# Gabriela - Analise
-# Victor Enrico - Design
-# Gabriel - Codificação
-# Emerson - Codificação
-# Victor Sousa - Teste
-# Wesley - Operação
+* Gabriela - Analise
+* Victor Enrico - Design
+* Gabriel - Codificação
+* Emerson - Codificação
+* Victor Sousa - Teste
+* Wesley - Operação
