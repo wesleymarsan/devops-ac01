@@ -1,46 +1,14 @@
-Linguagem HTML5
+Linguagem HTML5 e CSS
 
-Fazer uma unica pagina.
+Index.html
+- Ter um titulo grande.
+- Imagem no fundo do titulo.
+- Menu Horizontal com o nome de cada pessoa, ao passar o mouse aparece uma imagem de um filme diferente.
 
--------------------------------------------
+------------------------------------------------------------------------------------------------------------
+nome.html
 
-FILMES DE AÇÃO
-
-. Gabriela
-- Logan
-- Velozes e Furiosos 5
-- Os Mercenarios
-
-. Gabriel
-- Senhor dos Aneis 1
-- Senhor dos Aneis 2
-- Senhor dos Aneis 3
-
-. Emerson
-- Hobbit 1
-- Hobbit 2
-- Hobbit 3
-
-. Victor E
-- Carga Explosiva 1
-- Carga Explosiva 2
-- Carga Explosiva 3
-
-. Victor S
-- Dragon Ball Z: Batalha dos Deuses
-- One Piece: Gold
-- Harry Potter 2
-
-. Wesley
-- Batman Vs Superman
-- Planeta dos Macacos: A Origem
-- Planeta dos Macacos: O Confronto
-
-. Daniel
-- Batman Vs Superman
-- Homem Aranha de Volta ao Lar
-- A Hora do Rush
-
--------------------------------------------
-
-
+- Cada pessoa vai ter sua propria pagina (div dentro de div).
+- 5 filmes de ação escolhidos.
+- Ter um titulo "Filmes".
+- um menu simples vertical com cada filme escolhido.
