@@ -1,0 +1,44 @@
+Linguagem HTML5     -OK
+
+Fazer uma unica pagina.     -OK
+
+-------------------------------------------
+
+FILMES DE AÇÃO      -OK
+
+. Gabriela      -OK
+- Logan     -NOK
+- Velozes e Furiosos    -NOK
+- Os Mercenarios    -NOK
+
+. Gabriel   -OK
+- Senhor dos Aneis 1    -NOK
+- Senhor dos Aneis 2    -NOK
+- Senhor dos Aneis 3    -NOK
+
+. Emerson   -OK
+- Hobbit 1  -OK
+- Hobbit 2  -OK
+- Hobbit 3  -OK
+
+. Victor E      -OK
+- Carga Explosiva 1     -OK
+- Carga Explosiva 2     -OK
+- Carga Explosiva 3     -OK
+
+. Victor S      -OK
+- Dragon Ball Z: Batalha dos Deuses     -NOK
+- One Piece: Gold   -NOK
+- Harry Potter 2    -NOK
+
+. Wesley        -OK
+- Batman Vs Superman    -NOK
+- Planeta dos Macacos: A Origem     -NOK
+- Planeta dos Macacos: O Confronto      -NOK
+
+. Daniel    -OK
+- Batman Vs Superman    -NOK
+- Homem Aranha de Volta ao Lar      -NOK
+- A Hora do Rush    -NOK
+
+-------------------------------------------
