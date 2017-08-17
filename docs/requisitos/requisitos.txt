@@ -1,15 +1,15 @@
-Construir um site em HTML apresentando em paginas separadas os tres filmes
+Construir um site em HTML apresentando em paginas separadas os cinco filmes
 de ação preferidos de cada integrante do grupo.
 A pagina inicial (index.html) deve ter todos os links, identificados pelo nome de cada integrante
 As demais páginas devem conter os nomes dos filmes e um link para voltar ao index
 
-Gabriela - Logan, velozes e furiosos 5, os mercenários
-Gabriel - Senhor dos aneis 1, 2, 3
-emerson - hobbit 1,2,3
-victo E - carga explosiva 1,2,3
-victor S - dragon ball Z (a batalha dos deuses), one piece gold, Harry potter 2 
-Wesley - batman vs Superman, planeta dos macacos (a origem), planeta dos macacos (o confronto)
-Daniel - Batman vs superman, homem aranha de volta ao lar,  a hora do rush
+Gabriela - Logan, velozes e furiosos 5, os mercenários, Homem aranha, Star Wars
+Gabriel - Senhor dos aneis 1, 2, 3,Harry Potter 7 parte1, parte2 
+emerson - hobbit 1,2,3, de volta pro futuro 1, 2 
+victo E - carga explosiva 1,2,3, berserk Era de ouro 1, 2
+victor S - dragon ball Z (a batalha dos deuses), one piece gold, Harry potter 2, Harry Potter 3, Harry Potter 5
+Wesley - batman vs Superman, planeta dos macacos (a origem), planeta dos macacos (o confronto), a lagoa azul, Conan.
+Daniel - Batman vs superman, homem aranha de volta ao lar,  a hora do rush, meu malvado favorito 3, A procura da felicidade.
 
 
 
