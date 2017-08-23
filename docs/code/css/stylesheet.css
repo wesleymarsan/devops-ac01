@@ -1,0 +1,120 @@
+body{
+    background-color: #000000;
+    padding: 0 0;
+    margin: 0 0;
+}
+#navbar{
+    background-color: #ffffff;
+    max-width: 100%;
+    height: auto; 
+    position: static;
+    margin-bottom: 0px;
+    margin-top: -5px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+#logo{
+    width: auto; 
+    height: 30px;
+}
+#banner {
+    background-image: url(cinema.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 768px;
+    margin-top: -22px;
+}
+#banner h3 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #ffffff;
+        font-size: 450%;
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-top: 5%;
+        margin-bottom: 0%;
+        position: absolute;
+        text-align: center;
+    }
+#banner span {
+        font-size: 40%;
+        color: #DC143C;
+    }
+.content1 { 
+    background-color: #161616;
+    color: #ffffff;
+    width: 25%; 
+    height: 250px; 
+    float: left;
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    margin-top: -10%;
+    position: relative;
+}
+.content{ 
+    background-color: #161616;
+    color: #ffffff;
+    width: 25%; 
+    height: 250px; 
+    float: left;
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    margin-top: 6%;
+    margin-bottom: 5%;
+    position: relative;
+}
+content a {
+    text-decoration: none;
+}
+.image{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 350px;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #DC143C;
+} 
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.content1:hover .overlay {
+  opacity: 1;
+}
+.content:hover .overlay {
+  opacity: 1;
+}
+/*space {
+    width: 100%;
+    height: 30px;
+    position: static;
+    margin-top: 300px;
+    margin-bottom: 500px;
+}*/
+.pages{
+    background-color: #161616;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    margin-top: -2%;
+    position: relative;
+    width: inherit;
+    height: 680px;
+    padding: 5%;
+
+}
+#footer {
+    background-color: #ffffff;
+}
