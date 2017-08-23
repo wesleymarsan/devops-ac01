@@ -1,8 +1,8 @@
 # devops-ac01
 
 * Gabriela - Analise
-* Gabriel - Analise
+* Emerson - Analise
 * Victor Enrico - Design
-* Emerson - Codificação
+* Gabriel - Codificação
 * Victor Sousa - Teste
 * Wesley - Operação
