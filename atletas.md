@@ -2,3 +2,4 @@
 
 * Michael Phelps
 * Usain Bolt
+* Carles Puyol
