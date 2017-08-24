@@ -1,6 +1,4 @@
 # Melhores atletas
 
-
-Michael Phelps
+* Michael Phelps
 * Usain Bolt
-----
