@@ -1,0 +1,16 @@
+Linguagem HTML5 e CSS ok
+
+Index.html ok
+- Ter um titulo grande. ok
+- Imagem no fundo do titulo. ok
+- Menu Horizontal com o nome de cada pessoa, ao passar o mouse aparece uma imagem de um filme diferente. ok 
+
+------------------------------------------------------------------------------------------------------------
+nome.html ok 
+
+- Cada pessoa vai ter sua propria pagina (div dentro de div). ok
+- 5 filmes de ação escolhidos. ok
+- Ter um titulo "Filmes". ok
+- um menu simples vertical com cada filme escolhido. ok
+
+* Teste realizado com êxito.
